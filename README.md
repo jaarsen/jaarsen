@@ -7,11 +7,11 @@ Hi! I'm Jakob. 👋 I grew up in a rural area and have always been passionate ab
 
 ## Technical Skills
 
-**Fullstack Development:** Adept in JavaScript and TypeScript, I can handle both front-end and back-end development.
+**Fullstack Development:** Adept in JavaScript, TypeScript, Python, PHP, and Java, I can handle both front-end and back-end development.
 
-**Front-End:** Proficient in frameworks like Angular and React.
+**Front-End:** Proficient in frameworks like Angular, React, and Vue.
 
-**Back-End:** Experienced with Node.js and the NestJS framework for building robust server-side applications.
+**Back-End:** Experienced with Node.js, NestJS, Laravel, Django, Flask, and Spring Boot framework for building robust server-side applications.
 
 **Databases:** Comfortable with both SQL and NoSQL databases.
 
