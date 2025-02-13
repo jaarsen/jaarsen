@@ -32,7 +32,7 @@ Hi! I'm Jakob. 👋 I grew up in a rural area and have always been passionate ab
 🦈🦈🦈
 
 
-
+<!--
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
@@ -41,3 +41,4 @@ Hi! I'm Jakob. 👋 I grew up in a rural area and have always been passionate ab
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jaarsen&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+-->
